@@ -24,3 +24,4 @@ try {
     echo "No match found";
 }
 
+// Tricky Question: Guess what will be output of $e->getCode();
